@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "lib": [
+    "target": "es5", //es5 js파일로 컴파일하겠다는 뜻
+    "lib": [ //컴파일러가 참조할 라이브러리
       "dom",
       "dom.iterable",
       "esnext"
